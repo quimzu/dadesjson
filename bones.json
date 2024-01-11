@@ -1,6 +1,6 @@
 [
   {
-    "Codi del centre": "08001421",
+    "codi_del_centre": 8001421,
     "Centre": "Institut La Pineda",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -16,7 +16,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": "08009260",
+    "codi_del_centre": 8009260,
     "Centre": "Jesuïtes Clot - El Clot",
     "NIF": "G62411624",
     "Tipus": "Privat",
@@ -32,7 +32,7 @@
     "Xarxes": "Pausa"
   },
   {
-    "Codi del centre": "08012714",
+    "codi_del_centre": 8012714,
     "Centre": "Institut Anna Gironella de Mundet",
     "NIF": "P0801900B",
     "Tipus": "Públic",
@@ -48,7 +48,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": "08013135",
+    "codi_del_centre": 8013135,
     "Centre": "Institut Moisès Broggi",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -64,7 +64,7 @@
     "Xarxes": "Comunicar per apendre,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08013275",
+    "codi_del_centre": 8013275,
     "Centre": "Institut Escola del Treball",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -80,7 +80,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": "08014115",
+    "codi_del_centre": 8014115,
     "Centre": "Institut Ferran Tallada",
     "NIF": "P0801900B",
     "Tipus": "Públic",
@@ -96,7 +96,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré"
   },
   {
-    "Codi del centre": "08014279",
+    "codi_del_centre": 8014279,
     "Centre": "Escola Professional Salesiana",
     "NIF": "R0800036F",
     "Tipus": "Privat",
@@ -112,7 +112,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": "08014401",
+    "codi_del_centre": 8014401,
     "Centre": "Institut Mare de Déu de la Mercè",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -128,7 +128,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": "08016781",
+    "codi_del_centre": 8016781,
     "Centre": "Institut Esteve Terradas i Illa",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -144,7 +144,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": "08017131",
+    "codi_del_centre": 8017131,
     "Centre": "Institut Severo Ochoa",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -160,7 +160,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08017852",
+    "codi_del_centre": 8017852,
     "Centre": "Institut Escola del Treball",
     "NIF": "P0809500B",
     "Tipus": "Públic",
@@ -176,7 +176,7 @@
     "Xarxes": "Xarxa 2A - Raül López"
   },
   {
-    "Codi del centre": "08018561",
+    "codi_del_centre": 8018561,
     "Centre": "Xaloc",
     "NIF": "A08147555",
     "Tipus": "Privat",
@@ -192,7 +192,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré"
   },
   {
-    "Codi del centre": "08019401",
+    "codi_del_centre": 8019401,
     "Centre": "Institut Provençana",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -208,7 +208,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": "08020036",
+    "codi_del_centre": 8020036,
     "Centre": "Joviat",
     "NIF": "G60374022",
     "Tipus": "Privat",
@@ -224,7 +224,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": "08020462",
+    "codi_del_centre": 8020462,
     "Centre": "Institut Lacetània",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -240,7 +240,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": "08021107",
+    "codi_del_centre": 8021107,
     "Centre": "Escola Pia de Mataró",
     "NIF": "R0800073I",
     "Tipus": "Privat",
@@ -256,7 +256,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08021594",
+    "codi_del_centre": 8021594,
     "Centre": "Institut de Mollet del Vallès",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -272,7 +272,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": "08023803",
+    "codi_del_centre": 8023803,
     "Centre": "Regina Carmeli",
     "NIF": "R0800165C",
     "Tipus": "Privat",
@@ -288,7 +288,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": "08024893",
+    "codi_del_centre": 8024893,
     "Centre": "Institut Castellarnau",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -304,7 +304,7 @@
     "Xarxes": "Xarxa 1C - Maribel,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08026683",
+    "codi_del_centre": 8026683,
     "Centre": "Institut Francesc Ferrer i Guàrdia",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -320,7 +320,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": "08030339",
+    "codi_del_centre": 8030339,
     "Centre": "Institut de Terrassa",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -336,7 +336,7 @@
     "Xarxes": "Pausa,Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": "08031022",
+    "codi_del_centre": 8031022,
     "Centre": "Institut de Vic",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -352,7 +352,7 @@
     "Xarxes": "Xarxa 2B - David Saura,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08031459",
+    "codi_del_centre": 8031459,
     "Centre": "Institut Eugeni d'Ors",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -368,7 +368,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08031897",
+    "codi_del_centre": 8031897,
     "Centre": "Bemen 3",
     "NIF": "B64080872",
     "Tipus": "Privat",
@@ -384,7 +384,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08031927",
+    "codi_del_centre": 8031927,
     "Centre": "ETP Xavier",
     "NIF": "R2802592B",
     "Tipus": "Privat",
@@ -400,7 +400,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré"
   },
   {
-    "Codi del centre": "08031988",
+    "codi_del_centre": 8031988,
     "Centre": "Miquel Servet",
     "NIF": "B64315187",
     "Tipus": "Privat",
@@ -416,7 +416,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08032063",
+    "codi_del_centre": 8032063,
     "Centre": "Salesians Sant Vicenç dels Horts",
     "NIF": "R0800036F",
     "Tipus": "Privat",
@@ -432,7 +432,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08032208",
+    "codi_del_centre": 8032208,
     "Centre": "Centre d'Estudis Politècnics",
     "NIF": "B08659922",
     "Tipus": "Privat",
@@ -448,7 +448,7 @@
     "Xarxes": "Avaluació Formativa,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08032211",
+    "codi_del_centre": 8032211,
     "Centre": "Ceir - Arco Villarroel",
     "NIF": "B58050345",
     "Tipus": "Privat",
@@ -464,7 +464,7 @@
     "Xarxes": "Comunicar per apendre,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08032361",
+    "codi_del_centre": 8032361,
     "Centre": "Stucom Pelai",
     "NIF": "A08273112",
     "Tipus": "Privat",
@@ -480,7 +480,7 @@
     "Xarxes": "Convidats,Xarxa 3 - Olga Castilla i Paco González"
   },
   {
-    "Codi del centre": "08032427",
+    "codi_del_centre": 8032427,
     "Centre": "Escola d'aprenents SEAT",
     "NIF": "28049161A",
     "Tipus": "Privat",
@@ -496,7 +496,7 @@
     "Xarxes": "Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08034059",
+    "codi_del_centre": 8034059,
     "Centre": "Institut Nicolau Copèrnic",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -512,7 +512,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": "08034138",
+    "codi_del_centre": 8034138,
     "Centre": "Institut Poblenou",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -528,7 +528,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08034205",
+    "codi_del_centre": 8034205,
     "Centre": "Institut La Guineueta",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -544,7 +544,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré"
   },
   {
-    "Codi del centre": "08034217",
+    "codi_del_centre": 8034217,
     "Centre": "Institut Bernat el Ferrer",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -560,7 +560,7 @@
     "Xarxes": "Xarxa 2B - David Saura,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08034621",
+    "codi_del_centre": 8034621,
     "Centre": "Institut de Sales",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -576,7 +576,7 @@
     "Xarxes": "Xarxa 2A - Raül López,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08034643",
+    "codi_del_centre": 8034643,
     "Centre": "Institut Les Vinyes",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -592,7 +592,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": "08034709",
+    "codi_del_centre": 8034709,
     "Centre": "Institut Narcís Monturiol",
     "NIF": "P0801900B",
     "Tipus": "Públic",
@@ -608,7 +608,7 @@
     "Xarxes": "Comunicar per apendre,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08035015",
+    "codi_del_centre": 8035015,
     "Centre": "López Vicu¦a",
     "NIF": "R5800520H",
     "Tipus": "Privat",
@@ -624,7 +624,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": "08035039",
+    "codi_del_centre": 8035039,
     "Centre": "Institut Bonanova",
     "NIF": "P0801900B",
     "Tipus": "Públic",
@@ -640,7 +640,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": "08035295",
+    "codi_del_centre": 8035295,
     "Centre": "Institut Palau Ausit",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -656,7 +656,7 @@
     "Xarxes": "Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08035349",
+    "codi_del_centre": 8035349,
     "Centre": "Institut La Romànica",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -672,7 +672,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": "08037176",
+    "codi_del_centre": 8037176,
     "Centre": "Institut La Bastida",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -688,7 +688,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08038120",
+    "codi_del_centre": 8038120,
     "Centre": "Edgar",
     "NIF": "F58875378",
     "Tipus": "Privat",
@@ -704,7 +704,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": "08041741",
+    "codi_del_centre": 8041741,
     "Centre": "Ceir - Arco Aragó",
     "NIF": "B58050345",
     "Tipus": "Privat",
@@ -720,7 +720,7 @@
     "Xarxes": "Pausa"
   },
   {
-    "Codi del centre": "08041866",
+    "codi_del_centre": 8041866,
     "Centre": "Institut El Calamot",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -736,7 +736,7 @@
     "Xarxes": "Xarxa 2A - Raül López"
   },
   {
-    "Codi del centre": "08041933",
+    "codi_del_centre": 8041933,
     "Centre": "Institut Rubió i Tudurí",
     "NIF": "P0801900B",
     "Tipus": "Públic",
@@ -752,7 +752,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08042342",
+    "codi_del_centre": 8042342,
     "Centre": "Institut de Badia del Vallès",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -768,7 +768,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": "08042573",
+    "codi_del_centre": 8042573,
     "Centre": "Institut Lluïsa Cura",
     "NIF": "P0801900B",
     "Tipus": "Públic",
@@ -784,7 +784,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08043486",
+    "codi_del_centre": 8043486,
     "Centre": "Institut Manolo Hugué",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -800,7 +800,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08043516",
+    "codi_del_centre": 8043516,
     "Centre": "Institut Santa Eulàlia",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -816,7 +816,7 @@
     "Xarxes": "Xarxa 2A - Raül López,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08043644",
+    "codi_del_centre": 8043644,
     "Centre": "Institut Carles Vallbona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -832,7 +832,7 @@
     "Xarxes": "Xarxa 2A - Raül López"
   },
   {
-    "Codi del centre": "08043681",
+    "codi_del_centre": 8043681,
     "Centre": "Institut Marianao",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -848,7 +848,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": "08043693",
+    "codi_del_centre": 8043693,
     "Centre": "Institut Joaquim Mir",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -864,7 +864,7 @@
     "Xarxes": "Xarxa 1C - Maribel,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08043981",
+    "codi_del_centre": 8043981,
     "Centre": "Institut Joan Ramon Benaprès",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -880,7 +880,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08044053",
+    "codi_del_centre": 8044053,
     "Centre": "Institut Salvador Seguí",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -896,7 +896,7 @@
     "Xarxes": "Xarxa 2B - David Saura,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08044533",
+    "codi_del_centre": 8044533,
     "Centre": "Institut La Ferreria",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -912,7 +912,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré"
   },
   {
-    "Codi del centre": "08044594",
+    "codi_del_centre": 8044594,
     "Centre": "Institut Giola",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -928,7 +928,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré"
   },
   {
-    "Codi del centre": "08044715",
+    "codi_del_centre": 8044715,
     "Centre": "Institut Jaume Mimó",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -944,7 +944,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": "08044788",
+    "codi_del_centre": 8044788,
     "Centre": "Parc Estudi",
     "NIF": "B61539979",
     "Tipus": "Privat",
@@ -960,7 +960,7 @@
     "Xarxes": "Convidats,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08045021",
+    "codi_del_centre": 8045021,
     "Centre": "Institut Estela Ibèrica",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -976,7 +976,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": "08045203",
+    "codi_del_centre": 8045203,
     "Centre": "Institut Obert de Catalunya",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -992,7 +992,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": "08045471",
+    "codi_del_centre": 8045471,
     "Centre": "Institut Pompeu Fabra",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1008,7 +1008,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08045513",
+    "codi_del_centre": 8045513,
     "Centre": "Institut Flos i Calcat",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1024,7 +1024,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": "08045604",
+    "codi_del_centre": 8045604,
     "Centre": "Institut Enric Borràs",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1040,7 +1040,7 @@
     "Xarxes": "Convidats"
   },
   {
-    "Codi del centre": "08046669",
+    "codi_del_centre": 8046669,
     "Centre": "Institut Ribot i Serra",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1056,7 +1056,7 @@
     "Xarxes": "Pausa"
   },
   {
-    "Codi del centre": "08046724",
+    "codi_del_centre": 8046724,
     "Centre": "Institut Montserrat Roig",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1072,7 +1072,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08046748",
+    "codi_del_centre": 8046748,
     "Centre": "Institut Thos i Codina",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1088,7 +1088,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré"
   },
   {
-    "Codi del centre": "08046761",
+    "codi_del_centre": 8046761,
     "Centre": "Institut Guillem Catà",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1104,7 +1104,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": "08046840",
+    "codi_del_centre": 8046840,
     "Centre": "Institut Castellet",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1120,7 +1120,7 @@
     "Xarxes": "Xarxa 2A - Raül López"
   },
   {
-    "Codi del centre": "08047467",
+    "codi_del_centre": 8047467,
     "Centre": "Institut Alexandre Galí",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1136,7 +1136,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": "08047480",
+    "codi_del_centre": 8047480,
     "Centre": "Institut Mediterrània",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1152,7 +1152,7 @@
     "Xarxes": "Xarxa 2A - Raül López,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08047832",
+    "codi_del_centre": 8047832,
     "Centre": "Institut Joan Coromines",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1168,7 +1168,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": "08053182",
+    "codi_del_centre": 8053182,
     "Centre": "Institut La Serreta",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1184,7 +1184,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": "08053340",
+    "codi_del_centre": 8053340,
     "Centre": "Institut Gabriela Mistral",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1200,7 +1200,7 @@
     "Xarxes": "Avaluació Formativa,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08054034",
+    "codi_del_centre": 8054034,
     "Centre": "Institut Gallecs",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1216,7 +1216,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": "08054277",
+    "codi_del_centre": 8054277,
     "Centre": "Institut de Tona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1232,7 +1232,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": "08056109",
+    "codi_del_centre": 8056109,
     "Centre": "Institut Can Vilumara",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1248,7 +1248,7 @@
     "Xarxes": "Convidats,Comunicar per apendre"
   },
   {
-    "Codi del centre": "08057540",
+    "codi_del_centre": 8057540,
     "Centre": "Institut Joan Brossa",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1264,7 +1264,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08074631",
+    "codi_del_centre": 8074631,
     "Centre": "Institut Les Salines",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1280,7 +1280,7 @@
     "Xarxes": "Xarxa 2A - Raül López"
   },
   {
-    "Codi del centre": "08074847",
+    "codi_del_centre": 8074847,
     "Centre": "Institut de Nàutica de Barcelona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1296,7 +1296,7 @@
     "Xarxes": "Xarxa 3 - Olga Castilla i Paco González"
   },
   {
-    "Codi del centre": "08076194",
+    "codi_del_centre": 8076194,
     "Centre": "Institut Tecnològic de Barcelona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1312,7 +1312,7 @@
     "Xarxes": "Xarxa 1C - Maribel,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08076391",
+    "codi_del_centre": 8076391,
     "Centre": "Institut Pedralbes",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1328,7 +1328,7 @@
     "Xarxes": "Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": "08076637",
+    "codi_del_centre": 8076637,
     "Centre": "Institut FP Sant Cugat del Vallès",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1344,7 +1344,7 @@
     "Xarxes": "Xarxa 3 - Olga Castilla i Paco González,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08077137",
+    "codi_del_centre": 8077137,
     "Centre": "Institut de l'Esport de Barcelona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1360,7 +1360,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": 17000330,
+    "codi_del_centre": 17000330,
     "Centre": "Institut Josep Brugulat",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1376,7 +1376,7 @@
     "Xarxes": "Xarxa 2A - Raül López"
   },
   {
-    "Codi del centre": 17001218,
+    "codi_del_centre": 17001218,
     "Centre": "Institut Ramon Muntaner",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1392,7 +1392,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": 17001221,
+    "codi_del_centre": 17001221,
     "Centre": "Institut Narcís Monturiol",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1408,7 +1408,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": 17001735,
+    "codi_del_centre": 17001735,
     "Centre": "Institut Montilivi",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1424,7 +1424,7 @@
     "Xarxes": "Xarxa 3 - Olga Castilla i Paco González"
   },
   {
-    "Codi del centre": 17001759,
+    "codi_del_centre": 17001759,
     "Centre": "Institut Escola d'Hostaleria i Turisme de Girona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1440,7 +1440,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": 17003318,
+    "codi_del_centre": 17003318,
     "Centre": "Institut de Sant Feliu de Guíxols",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1456,7 +1456,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": 17004499,
+    "codi_del_centre": 17004499,
     "Centre": "Institut Narcís Xifra i Masmitjà",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1472,7 +1472,7 @@
     "Xarxes": "Avaluació Formativa,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": 17005376,
+    "codi_del_centre": 17005376,
     "Centre": "Institut de Santa Coloma de Farners",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1488,7 +1488,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": 17005388,
+    "codi_del_centre": 17005388,
     "Centre": "Institut Vallvera",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1504,7 +1504,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": 17005649,
+    "codi_del_centre": 17005649,
     "Centre": "Institut Cendrassos",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1520,7 +1520,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": 17005662,
+    "codi_del_centre": 17005662,
     "Centre": "Institut Serrallarga",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1536,7 +1536,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": 17005704,
+    "codi_del_centre": 17005704,
     "Centre": "Institut Abat Oliba",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1552,7 +1552,7 @@
     "Xarxes": "Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": 17005731,
+    "codi_del_centre": 17005731,
     "Centre": "Institut S'Agulla",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1568,7 +1568,7 @@
     "Xarxes": "Pausa"
   },
   {
-    "Codi del centre": 17005741,
+    "codi_del_centre": 17005741,
     "Centre": "Institut Pere Borrell",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1584,7 +1584,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": 17005893,
+    "codi_del_centre": 17005893,
     "Centre": "Institut Bosc de la Coma",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1600,7 +1600,7 @@
     "Xarxes": "Xarxa 1C - Maribel"
   },
   {
-    "Codi del centre": 17006666,
+    "codi_del_centre": 17006666,
     "Centre": "Institut Pla de l'Estany",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1616,7 +1616,7 @@
     "Xarxes": "Xarxa 1B - Ruben Nadal"
   },
   {
-    "Codi del centre": 17006939,
+    "codi_del_centre": 17006939,
     "Centre": "Institut Santa Eugènia",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1632,7 +1632,7 @@
     "Xarxes": "Xarxa 3 - Olga Castilla i Paco González"
   },
   {
-    "Codi del centre": 17007300,
+    "codi_del_centre": 17007300,
     "Centre": "Institut La Bisbal",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1648,7 +1648,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": 17007609,
+    "codi_del_centre": 17007609,
     "Centre": "Institut Olivar Gran",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1664,7 +1664,7 @@
     "Xarxes": "Xarxa 1C - Maribel,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": 25002726,
+    "codi_del_centre": 25002726,
     "Centre": "Institut Guindàvols",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1680,7 +1680,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": 25002775,
+    "codi_del_centre": 25002775,
     "Centre": "Ilerna",
     "NIF": "B25026428",
     "Tipus": "Privat",
@@ -1696,7 +1696,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": 25002799,
+    "codi_del_centre": 25002799,
     "Centre": "Institut Caparrella",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1712,7 +1712,7 @@
     "Xarxes": "Comunicar per apendre,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": 25003184,
+    "codi_del_centre": 25003184,
     "Centre": "La Salle",
     "NIF": "R0800055F",
     "Tipus": "Privat",
@@ -1728,7 +1728,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": 25004188,
+    "codi_del_centre": 25004188,
     "Centre": "Institut Joan Brudieu",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1744,7 +1744,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": 25004309,
+    "codi_del_centre": 25004309,
     "Centre": "Arrels II",
     "NIF": "G25293234",
     "Tipus": "Privat",
@@ -1760,7 +1760,7 @@
     "Xarxes": "Pausa,1A - INICIAL - Núria Ferré,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": 25005442,
+    "codi_del_centre": 25005442,
     "Centre": "Institut Escola del Treball",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1776,7 +1776,7 @@
     "Xarxes": "Xarxa 3 - Olga Castilla i Paco González"
   },
   {
-    "Codi del centre": 25005685,
+    "codi_del_centre": 25005685,
     "Centre": "Institut La Segarra",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1792,7 +1792,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": 25006720,
+    "codi_del_centre": 25006720,
     "Centre": "Institut d'Hoteleria i Turisme",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1808,7 +1808,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": 25006732,
+    "codi_del_centre": 25006732,
     "Centre": "Institut Torrevicens",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1824,7 +1824,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": 25006771,
+    "codi_del_centre": 25006771,
     "Centre": "Institut Ronda",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1840,7 +1840,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": 25006781,
+    "codi_del_centre": 25006781,
     "Centre": "Institut Alfons Costafreda",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1856,7 +1856,7 @@
     "Xarxes": "Xarxa 1C - Maribel,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": 25007505,
+    "codi_del_centre": 25007505,
     "Centre": "Institut de Guissona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1872,7 +1872,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": 43000330,
+    "codi_del_centre": 43000330,
     "Centre": "Escola agrària d'Amposta",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1888,7 +1888,7 @@
     "Xarxes": "Pausa"
   },
   {
-    "Codi del centre": 43002594,
+    "codi_del_centre": 43002594,
     "Centre": "Institut Baix Camp",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1904,7 +1904,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": 43003151,
+    "codi_del_centre": 43003151,
     "Centre": "Joan XXIII",
     "NIF": "R4300361E",
     "Tipus": "Privat",
@@ -1920,7 +1920,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": 43003653,
+    "codi_del_centre": 43003653,
     "Centre": "Institut Comte de Rius",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1936,7 +1936,7 @@
     "Xarxes": "Comunicar per apendre,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": 43004441,
+    "codi_del_centre": 43004441,
     "Centre": "Institut de l'Ebre",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1952,7 +1952,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": 43004611,
+    "codi_del_centre": 43004611,
     "Centre": "Institut Jaume Huguet",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1968,7 +1968,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": 43004803,
+    "codi_del_centre": 43004803,
     "Centre": "Institut Andreu Nin",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -1984,7 +1984,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": 43005704,
+    "codi_del_centre": 43005704,
     "Centre": "Institut Francesc Vidal i Barraquer",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2000,7 +2000,7 @@
     "Xarxes": "Avaluació Formativa"
   },
   {
-    "Codi del centre": 43006101,
+    "codi_del_centre": 43006101,
     "Centre": "Institut Montsià",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2016,7 +2016,7 @@
     "Xarxes": "Comunicar per apendre,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": 43006630,
+    "codi_del_centre": 43006630,
     "Centre": "Institut Pere Martell",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2032,7 +2032,7 @@
     "Xarxes": "Xarxa 2B - David Saura"
   },
   {
-    "Codi del centre": 43006691,
+    "codi_del_centre": 43006691,
     "Centre": "Institut Priorat",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2048,7 +2048,7 @@
     "Xarxes": "Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": 43007038,
+    "codi_del_centre": 43007038,
     "Centre": "Institut Escola d'Hoteleria i Turisme",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2064,7 +2064,7 @@
     "Xarxes": "Pausa"
   },
   {
-    "Codi del centre": 43007166,
+    "codi_del_centre": 43007166,
     "Centre": "Institut Lluís Domènech i Montaner",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2080,7 +2080,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": 43008638,
+    "codi_del_centre": 43008638,
     "Centre": "Institut Antoni Ballester",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2096,7 +2096,7 @@
     "Xarxes": "Benvinguda - Centres nous,Turisme Pedagògic - Marian Camps"
   },
   {
-    "Codi del centre": 43009722,
+    "codi_del_centre": 43009722,
     "Centre": "Institut Cal·lípolis",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2112,7 +2112,7 @@
     "Xarxes": "Xarxa 3 - Olga Castilla i Paco González"
   },
   {
-    "Codi del centre": "08013767",
+    "codi_del_centre": 8013767,
     "Centre": "Prat",
     "NIF": "B08314700",
     "Tipus": "Privat",
@@ -2128,7 +2128,7 @@
     "Xarxes": "Avaluació Formativa,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": 17003203,
+    "codi_del_centre": 17003203,
     "Centre": "Institut Salvador Espriu",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2144,7 +2144,7 @@
     "Xarxes": "Comunicar per apendre"
   },
   {
-    "Codi del centre": "08077435",
+    "codi_del_centre": 8077435,
     "Centre": "Institut dels Aliments de Barcelona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2160,7 +2160,7 @@
     "Xarxes": "Xarxa 2A - Raül López"
   },
   {
-    "Codi del centre": "08077472",
+    "codi_del_centre": 8077472,
     "Centre": "Institut Intermunicipal del Penedès",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2176,7 +2176,7 @@
     "Xarxes": "Benvinguda - Centres nous"
   },
   {
-    "Codi del centre": 17010189,
+    "codi_del_centre": 17010189,
     "Centre": "Institut Vall de Llémena",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2192,7 +2192,7 @@
     "Xarxes": "Xarxa 3 - Olga Castilla i Paco González,Turisme Pedagògic - Àlex Sànchez"
   },
   {
-    "Codi del centre": "08077991",
+    "codi_del_centre": 8077991,
     "Centre": "Institut de Logística de Barcelona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2208,7 +2208,7 @@
     "Xarxes": "1A - INICIAL - Núria Ferré"
   },
   {
-    "Codi del centre": "08078385",
+    "codi_del_centre": 8078385,
     "Centre": "Institut TIC de Barcelona",
     "NIF": "S0811001G",
     "Tipus": "Públic",
@@ -2224,7 +2224,7 @@
     "Xarxes": ""
   },
   {
-    "Codi del centre": "08078403",
+    "codi_del_centre": 8078403,
     "Centre": "Institut de Tècniques Audiovisuals i de l'Espectacle de BCN",
     "NIF": "S0811001G",
     "Tipus": "Públic",
